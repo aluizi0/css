@@ -1,0 +1,28 @@
+body {
+    background-image: url("https://www.viagenspossiveis.com.br/wp-content/uploads/2013/02/C360_2012-11-19-17-59-02.jpg?_gl=1*1t7gi6u*_ga*NTgwMjg5OTEzLjE3MTY3NzE3MjI.*_ga_37GXT4VGQK*MTcxNzQyNzgxOC40OC4xLjE3MTc0Mjc4NDMuMC4wLjA.");
+    background-size: cover;
+}
+
+header {
+    background-image: linear-gradient(to bottom, #a1e620, #050d31);
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    background-color: rgb(75, 47, 236);
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    text-align: center ;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: rgb(75, 47, 236);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
