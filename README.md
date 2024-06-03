@@ -1,2 +1,2 @@
 # CSS
- Complementação sobre o curso de HTML, agora aprendendo e praticando mais sobre o CSS.
+ Complementação sobre o curso de HTML, agora aprendendo e praticando mais sobre o CSS, DevTools, Cores, Background e Border, entre outros...
