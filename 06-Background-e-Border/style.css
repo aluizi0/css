@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg");
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+main{
+    background-color: #e5e5e5;
+    border-width: 4px;
+    border-color: #333;
+    border-style: solid;
+    
+}
+
+.box1 {
+    background-color: #3d10dd;
+    border: #333 4px solid;
+    height: 64px;
+    width: 320px;
+}
+
+.box2 {
+    background-image: linear-gradient(to left, #ff0000, #16a7e0);
+    height: 64px;
+    width: 320px;
+    border: #333 4px dotted;
+}
+
+.box3 {
+    background-color: #158ab8;
+    border: 2px solid #181616;
+    border-radius: 20px;
+    height: 64px;
+    width: 320px;
+}
