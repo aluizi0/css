@@ -1,0 +1,33 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.box {
+    background-color: rgb(152, 193, 255);
+    border: 2px solid black;
+}
+
+.box {
+    /* margem */
+    margin-top: 30px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
+
+.box {
+    /* preenchimento */
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+}
+
+.box1 {
+    box-sizing: content-box;
+  }
+  
+  .box2 {
+    box-sizing: border-box;
+  }
