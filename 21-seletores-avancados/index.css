@@ -1,0 +1,47 @@
+/* seletor :nth-child() */
+li:nth-child(2){
+    color: rgb(204, 236, 24);
+}
+
+li:nth-child(odd){
+    /*ímpar*/
+    color: blue;
+}
+
+li:nth-child(even){
+    /*par*/
+    color: rgb(255, 0, 0);
+}
+
+li:hover{
+    background-color: rgb(0, 255, 149);
+    color: cornsilk;
+}
+
+input:focus{
+    background-color: royalblue;
+    color: white;
+}
+
+/* pseudo-elementos -> ::before e ::after */
+li::before{
+    content: "(antes)";  
+    color: salmon; 
+}
+
+li::after{
+    content: "(depois)";
+    color: seagreen;  
+}
+
+li:first-child{
+    color:chartreuse;
+}
+
+li:last-child{
+    color: darkorange;
+}
+
+li:not(:first-child){
+    color: rgb(0, 68, 255);
+}
